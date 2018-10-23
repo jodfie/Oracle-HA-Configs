@@ -1,2 +1,2 @@
-# Orion-HA-Configs
-This is where my HA instance 'Orion' Configs will be backed up.
+# Oracle-HA-Configs
+This is where my HA instance 'Oracle' Configs will be backed up.
